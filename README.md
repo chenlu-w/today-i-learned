@@ -1,4 +1,4 @@
-# Today I Leanred
+# Today I Learned
 
 Today I Leanred is a website that users can share interesting and specific facts about something that they just found out.
 
