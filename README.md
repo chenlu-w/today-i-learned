@@ -6,7 +6,7 @@ Today I Learned is a website that users can share interesting and specific facts
 - [Overview](#overview)
 - [Technologies](#technologies)
 - [Design](#design)
-- [Web Access](#web-access)
+- [Website Link](#website-link)
 - [Credits](#credits)
 
 ## Overview
@@ -27,7 +27,7 @@ What do you learn today?
 <img width="1512" alt="Screen Shot 2023-10-09 at 9 25 59 PM" src="https://github.com/chenlu-w/today-i-learned/assets/117595669/1b560c4a-1b54-4d5b-8844-6bec59cd920a">
 
 
-## Web Access
+## Website Link
 
 https://today-i-learned-chenlu.netlify.app/
 
